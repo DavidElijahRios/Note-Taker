@@ -36,9 +36,9 @@
   ## Usage
   
 
-  1) You will need to create your repository and install all necessary packages with npm i in your terminal. 2) then run command node server.js to activate the server. 3) once server is runnig application link should be functioning.
+  1) You will need to create your repository and install all necessary packages with npm i in your terminal. 2) then run command node server.js to activate the server. 3) once server is running application link should be functioning.
 
-  [alt text](assets/images/screenshot.png)
+  [Deployed Application](https://stormy-mesa-05581.herokuapp.com/)
 
 
 
